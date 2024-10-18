@@ -1,0 +1,290 @@
+
+.header, .fondo {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    width: 300px;
+    background-color: rgba(72, 96, 182, 0.893);
+}
+.header, h1 {
+    color: white;
+    position: relative;
+    margin: auto;
+}
+.header, .pers{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0%;
+    color: white;
+    position: relative;
+    top: 15px;
+}
+.header, hr {
+    margin-top: 0%;
+    position: absolute;
+    color: #5fa6c9;
+    size: 2;
+    width: 90%;
+    left: 15px;
+}
+.header, b {
+    margin-left: 15px;
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+    left: 25px;
+    color: white;
+}
+.header, .contacto {
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 0%;
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+.header, .redes {
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 0%;
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.header, .github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 900px;
+    left: 100px;
+}
+.header, .linkelind{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 980px;
+    left: 100px;
+}
+.header, .pinterest{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 1060px;
+    left: 100px;
+}
+.header, .twitter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 1140px;
+    left: 100px;
+}
+.derecha {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 1000px;
+    left: 300px;
+    bottom: 1000px;
+    height: 1000px;
+    background-color: rgba(229, 223, 223, 0.374);
+}
+.perfil {
+    position: relative;
+    left: 5px;
+    color:#88b7ce
+}
+.linea{
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+}
+.parrafo {
+    position: absolute;
+    bottom: 450px;
+    width: 100%;
+    right: 260px;
+    margin: 15px;
+    color: black;
+}
+.image1 {
+    position: relative;
+}
+.image2 {
+    position: relative;
+    left: 25%;
+    bottom: 215px;
+}
+.image3 {
+    position: relative;
+    left: 50%;
+    bottom: 435px;
+}
+.Experiencia {
+    position: relative;
+    display: flex;
+    bottom: 450px;
+    left: 5px;
+    color:#88b7ce
+}
+.linea2{
+    position: relative;
+    bottom: 470px;
+    right: 10px;
+}
+.tabla {
+    position: relative;
+    display: inline-flex;
+    bottom: 450px;
+    left: 15px;
+}
+.celda_iconos{
+    position: relative;
+    left: 95px;
+    color: #88b7ce;
+}
+.celda_desempeñado {
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    position: relative;
+    height: 25px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    left: 185px;
+    color: #88b7ce;
+}
+.trabajo {
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    position: relative;
+    height: 25px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    left: 220px;
+    bottom: 10px;
+}
+.descripcion {
+    bottom: 20px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    position: relative;
+    height: 25px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    left: 345px; 
+}
+.imagen4 {
+    position: relative;
+    right: 500px;
+}
+.imagen5 {
+    position: relative;
+    right: 650px;
+    top: 110px;
+}
+.imagen6 {
+    position: relative;
+    right: 600px;
+    top: 10px;
+}
+.imagen7 {
+    position: relative;
+    top: 36px;
+    right: 621px;
+}
+.imagen8 {
+    position: relative;
+    top: 130px;
+    right: 639px;
+}
+.imagen9 {
+    position: relative;
+    top: 35px;
+    right: 320px;
+}
+.imagen10 {
+    position: relative;
+    top: 175px;
+    right: 370px;
+}
+.formacion {
+    position: relative;
+    display: flex;
+    bottom: 480px;
+    left: 5px;
+    color:#88b7ce
+}
+.linea3{
+    position: relative;
+    bottom: 500px;
+    right: 10px;
+}
+.formaciones, li {
+    position: relative;
+    bottom: 250px;
+    margin: 10px;
+}
+.software {
+    position: relative;
+    display: flex;
+    bottom: 520px;
+    left: 5px;
+    color:#88b7ce
+}
+.idiomas {
+    position: relative;
+    display: flex;
+    left: 535px;
+    bottom: 585px;
+    color:#88b7ce
+}
+.linea4{
+    position: relative;
+    bottom: 540px;
+    right: 10px;
+    width: 400px;
+}
+.linea5{
+    position: relative;
+    bottom: 500px;
+    width: 400px;
+    left: 520px;
+    bottom: 605px;
+}
+.imagen_grafica {
+    position: relative;
+    bottom: 650px;
+}
+.imagen_grafica2 {
+    position: relative;
+    bottom: 790px;
+    left: 680px;
+}
+.idiomas1, p {
+    position: relative;
+    left: 280px;
+    bottom: 440px;
+    color: black;
+}
